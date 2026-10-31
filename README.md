@@ -6,12 +6,6 @@ Proyecto de análisis de datos desarrollado en **Power BI**, enfocado en estudia
 
 A través de un dashboard interactivo, se busca transformar los datos en información útil para identificar tendencias, comparar indicadores entre departamentos y analizar distintos grupos de empleados.
 
-##  Vista previa del dashboard
-
-<!-- Reemplazar por el nombre real de la captura una vez subida al repositorio -->
-
-![Dashboard de Power BI](dashboard-preview.png)
-
 ##  Objetivos del análisis
 
 El dashboard permite responder las siguientes preguntas de negocio:
